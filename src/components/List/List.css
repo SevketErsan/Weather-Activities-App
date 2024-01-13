@@ -1,0 +1,17 @@
+.list {
+  list-style-type: none;
+}
+
+.list_item {
+  padding: 0.5rem;
+  background-color: rgb(133, 129, 129);
+  border-radius: 0.1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.delete_button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
